@@ -1,0 +1,27 @@
+{
+  "name": "openraildata",
+  "version": "1.0.1",
+  "description": "Makes use of the National Rails Darwin PushPort and reference data to provide live and uptodate timetabling and alerts from the UK rail network",
+  "main": "lib\\index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Steven Collins",
+    "git": "https://github.com/CarbonCollins"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CarbonCollins/openraildata-nodejs"
+  },
+  "bugs": {
+    "url": "https://github.com/CarbonCollins/openraildata-nodejs/issues"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jsdoc-to-markdown": "^1.2.2",
+    "gulp-rename": "^1.2.2",
+    "gulp-util": "^3.0.8"
+  }
+}
